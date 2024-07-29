@@ -25,7 +25,7 @@ https://github.com/jianchang512/ChatTTS-ui/assets/3378335/e2a08ea0-32af-4a30-888
    在任意路径下克隆项目，例如：
 
    ```bash
-   git clone https://github.com/jianchang512/ChatTTS-ui.git chat-tts-ui
+   git clone https://github.com/huhuhaha5588/ChatTTS-ui.git chat-tts-ui
    ```
 
 2. 启动 Runner
