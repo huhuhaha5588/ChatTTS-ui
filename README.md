@@ -1,33 +1,10 @@
 
-[English README](README_EN.md) | [打赏项目](https://github.com/jianchang512/ChatTTS-ui/issues/122) | [Discord Discussion Group](https://discord.gg/y9gUweVCCJ)
 
 
 # ChatTTS webUI & API 
 
 一个简单的本地网页界面，在网页使用 ChatTTS 将文字合成为语音，支持中英文、数字混杂，并提供API接口.
 原 [ChatTTS](https://github.com/2noise/chattts) 项目. 0.96版起，源码部署必须先安装ffmpeg ,之前的音色文件csv和pt已不可用，请填写音色值重新生成.[获取音色](?tab=readme-ov-file#音色获取)
-
-
-> **[赞助商]**
-> 
-> [![](https://github.com/user-attachments/assets/48f4ac8f-e321-4bd3-ab2e-d6053d932f49)](https://302.ai/)
->  [302.AI](https://302.ai) 是一个汇集全球顶级AI的自助平台，按需付费，零月费，零门槛使用各种类型AI。
-> 
-> [点击注册](https://302.ai): 立即获得 1PTC(1PTC=1美金，约为7人民币)代币。通过链接试用每天有5ptc额度
-> 
-> 功能全面: 将最好用的AI集成到在平台之上，包括不限于AI聊天，图片生成，图片处理，视频生成，全方位覆盖。
-> 
-> 简单易用: 提供机器人，工具和API多种使用方法，可以满足从小白到开发者多种角色的需求。
-> 
-> 按需付费，零门槛: 不提供月付套餐，对产品不设任何门槛，按需付费，全部开放。充值余额永久有效。
-> 
-> 管理者和使用者分离： 管理者一键分享，使用者无需登录。使用者无需关心复杂的AI设置，让懂AI的人来配置，简化使用流程。
-
-
-**界面预览**
-
-
-![image](https://github.com/jianchang512/ChatTTS-ui/assets/3378335/669876cf-5061-4d7d-86c5-3333d0882ee8)
 
 
 
@@ -38,12 +15,6 @@
 
 https://github.com/jianchang512/ChatTTS-ui/assets/3378335/e2a08ea0-32af-4a30-8880-3a91f6cbea55
 
-
-## Windows预打包版
-
-1. 从 [Releases](https://github.com/jianchang512/chatTTS-ui/releases)中下载压缩包，解压后双击 app.exe 即可使用
-2. 某些安全软件可能报毒，请退出或使用源码部署
-3. 英伟达显卡大于4G显存，并安装了CUDA11.8+后，将启用GPU加速
 
 ## Linux 下容器部署
 
